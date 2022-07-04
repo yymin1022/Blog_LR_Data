@@ -72,8 +72,9 @@
 
 ### Which device am I using?
  - Desktop : Intel i5-12600K / DDR4 32GB / 512GB NVME + 1TB HDD + 500GB HDD / Windows 11
- - Laptop :  LG Gram15 2019 / Intel i5-8265u / DDR4 16GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
- - NAS : ODroid H2 / Intel Celeron J4105 / DDR4 16GB / 128GB NVMe + 7TB HDD + 16GB eMMC / XPEnology 6.2.3
+ - Laptop :  LG Gram15 2019 / Intel i5-8265u / DDR4 12GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
+ - NAS : ODroid H2 / Intel Celeron J4105 / DDR4 16GB / 7TB HDD + 128GB NVMe / XPEnology 7.1.0
+ - Service Server : Intel Celeron J4125 / DDR4 12GB / 250GB SATA SSD / ESXi 6.7.0
  - Phone : Main with Google Pixel 4XL with Android 12<br/>
   Sub with Samsung Galaxy A32 LTE with Android 12
  - Tablet : Apple iPad Pro 11" 2nd with iPadOS 15<br/>
