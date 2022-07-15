@@ -16,13 +16,13 @@
 장비의 수가 많아지고 갈수록 보안에 대한 신경을 하나하나 쓰다보니,<br/>
 좀 더 보안 측면에서 안전한 방법을 찾게 되었습니다.
 
-그래서 계획한 방법은 직접 OpenVPN 서버를 구축하고,<br/>
+그래서 계획한 방법은 직접 **OpenVPN** 서버를 구축하고,<br/>
 이를 통해 홈네트워크의 내부망에 접근할 수 있도록 하는 방법이었습니다.
 
-오늘은 이와같이 OpenVPN 서버를 직접 구축하고 외부에서 접근하는 방법에 대해<br/>
+오늘은 이와같이 **OpenVPN** 서버를 직접 구축하고 외부에서 접근하는 방법에 대해<br/>
 포스팅해보도록 하겠습니다.
 
-먼저, OpenVPN 패키지를 설치해줍니다.
+먼저, **OpenVPN** 패키지를 설치해줍니다.
 
 ```bash
 yong@odroid:~$ sudo apt update && sudo apt install openvpn
@@ -35,7 +35,7 @@ yong@odroid:~$ sudo apt update && sudo apt install openvpn
 OpenVPN을 사용하기 위해서는, RSA 인증서로 인증된 사용자 등록이 필요합니다.<br/>
 이 과정을 위해 RSA 인증서를 발급하고 관리하기 위한 EasyRSA 패키지를 설치해주겠습니다.
 
-EasyRSA는 OpenVPN의 공식 Github를 통해 다운로드할 수 있고,<br/>
+EasyRSA는 **OpenVPN**의 공식 Github를 통해 다운로드할 수 있고,<br/>
 2022년 7월 기준 최신버전은 3.1.0 버전입니다.
 
 아래 커맨드를 통해 적절한 경로에 다운로드하고 압축을 해제해줍니다.
@@ -78,7 +78,7 @@ yong@odroid:~/EasyRSA-3.1.0$ mv vars pki/vars
 <img src="4_setup_easyrsa_2.png" width="100%" />
 </center>
 
-이번에는 OpenVPN 서버에 적용할 SSL CA 인증서를 발급합니다.
+이번에는 **OpenVPN** 서버에 적용할 SSL CA 인증서를 발급합니다.
 앞으로의 과정들에서, 이름 입력이나 Yes 등의 진행 여부를 묻는 질문이 여러 번 나오게 되는데,<br/>
 Yes 혹은 기본 설정대로 입력 후 진행하시면 됩니다.
 
@@ -101,7 +101,7 @@ yong@odroid:~/EasyRSA-3.1.0$ ./easyrsa gen-req server nopass
 <img src="6_setup_easyrsa_4.png" width="100%" />
 </center>
 
-생성된 서버의 RSA 인증키를 OpenVPN 디렉토리로 이동시켜줍니다.
+생성된 서버의 RSA 인증키를 **OpenVPN** 디렉토리로 이동시켜줍니다.
 
 ```bash
 yong@odroid:~/EasyRSA-3.1.0$ sudo cp ~/EasyRSA-3.1.0/pki/private/server.key /etc/openvpn/
@@ -117,7 +117,7 @@ yong@odroid:~/EasyRSA-3.1.0$ ./easyrsa sign-req server server
 <img src="7_setup_easyrsa_5.png" width="100%" />
 </center>
 
-사이닝이 완료된 crt파일 2개를 OpenVPN 디렉토리로 복사합니다.
+사이닝이 완료된 crt파일 2개를 **OpenVPN** 디렉토리로 복사합니다.
 
 ```bash
 yong@odroid:~/EasyRSA-3.1.0$ sudo cp ~/EasyRSA-3.1.0/pki/issued/server.crt /etc/openvpn/
@@ -141,7 +141,7 @@ yong@odroid:~/EasyRSA-3.1.0$ ./easyrsa gen-dh
 <img src="9_setup_easyrsa_7.png" width="100%" />
 </center>
 
-생성된 암호화 키 파일을 마찬가지로 OpenVPN 디렉토리로 복사해줍니다.
+생성된 암호화 키 파일을 마찬가지로 **OpenVPN** 디렉토리로 복사해줍니다.
 
 ```bash
 yong@odroid:~/EasyRSA-3.1.0$ sudo cp ~/EasyRSA-3.1.0/pki/dh.pem /etc/openvpn/
@@ -179,11 +179,11 @@ yong@odroid:~/EasyRSA-3.1.0$ ./easyrsa sign-req client yymin1022
 </center>
 
 이제, 서버와 클라이언트의 인증키에 관련된 기본 설정이 완료되었습니다.<br/>
-지금부터는 OpenVPN의 설정 과정을 진행하겠습니다.
+지금부터는 **OpenVPN**의 설정 과정을 진행하겠습니다.
 
 **/etc/openvpn** 디렉토리에 위치한 **server.conf** 파일을 수정하겠습니다.
 
-port 옆의 숫자를 OpenVPN 서비스를 이용할 포트로 수정합니다.<br/>
+port 옆의 숫자를 **OpenVPN** 서비스를 이용할 포트로 수정합니다.<br/>
 저는 24680번 포트를 이용하겠습니다.
 
 <center>
@@ -258,7 +258,7 @@ yong@odroid:~$ sudo sysctl -p
 ```
 
 이제, 서버 설정이 완료되었습니다.<br/>
-아래 커맨드로 OpenVPN 서비스가 자동으로 시작되도록 설정하고,<br/>
+아래 커맨드로 **OpenVPN** 서비스가 자동으로 시작되도록 설정하고,<br/>
 서비스를 실행합니다.
 
 ```bash
@@ -266,7 +266,7 @@ yong@odroid:~$ sudo systemctl enable openvpn@server
 yong@odroid:~$ sudo systemctl start openvpn@server
 ```
 
-이번에는, OpenVPN 서버에 접속하기 위한 클라이언트를 설정해보겠습니다.
+이번에는, **OpenVPN** 서버에 접속하기 위한 클라이언트를 설정해보겠습니다.
 
 먼저, 설정을 위한 디렉토리를 생성하고 파일을 복사해줍니다.
 
@@ -282,7 +282,7 @@ yong@odroid:~$ cp /usr/share/doc/openvpn/examples/sample-config-files/client.con
 먼저, 서버 접속 주소에 관한 부분입니다.
 **my-server-1 1194** 부분에, 서버의 도메인 혹은 IP주소 등,<br/>
 외부에서 접속할 수 있는 정보와 포트를 입력해줍니다.<br/>
-포트의 경우, 조금 전 OpenVPN 서버 설정 과정에서 지정한 포트를 입력해주시면 됩니다.
+포트의 경우, 조금 전 **OpenVPN** 서버 설정 과정에서 지정한 포트를 입력해주시면 됩니다.
 
 <center>
 <img src="23_setup_client_1.png" width="75%" />
@@ -320,7 +320,7 @@ TCP 구문 앞의 ;를 삭제하고, UDP 구문 앞에 추가해줍니다.
 </center>
 
 자, 이제 복잡한 과정은 정말로 완료되었습니다.<br/>
-이제, OpenVPN 서버에 접속하기 위한 사용자를 등록하는 과정입니다.
+이제, **OpenVPN** 서버에 접속하기 위한 사용자를 등록하는 과정입니다.
 
 **~/ovpn-configs** 디렉토리 내에 sh 스크립트 파일을 생성해줍니다.<br/>
 저는 **add_user.sh** 라는 이름으로 생성하겠습니다.
@@ -356,7 +356,7 @@ yong@odroid:~/ovpn-configs$ sudo ./add_user.sh yymin1022
 
 이후, **~/ovpn-configs/files** 디렉토리를 확인해보시면 사용자명.ovpn 파일이 생성된 것을 확인하실 수 있습니다.
 
-이 파일을 스마트폰 혹은 노트북에 복사하여 OpenVPN 클라이언트 설정을 하시면 됩니다.
+이 파일을 스마트폰 혹은 노트북에 복사하여 **OpenVPN** 클라이언트 설정을 하시면 됩니다.
 
 일부 서버 장비의 경우, IP Table 혹은 방화벽으로 인해 올바르게 동작하지 않을 수 있습니다.<br/>
 방화벽의 경우에는 사용중인 방화벽 소프트웨어에 따라 게이트웨이 설정을 진행해주시면 되고,<br/>
