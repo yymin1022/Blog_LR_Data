@@ -19,5 +19,4 @@ int main(){
     cout << curTime << "\n";
 
     return 0;
-}
-```
+}```

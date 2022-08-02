@@ -25,5 +25,4 @@ int main(){
     cout << "Minnesota      5  10  1" << "\n";
 
     return 0;
-}
-```
+}```

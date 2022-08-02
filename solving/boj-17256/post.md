@@ -16,5 +16,4 @@ int main(){
     cout << Cx - Az << " " << Cy / Ay << " " << Cz - Ax << "\n";
 
     return 0;
-}
-```
+}```

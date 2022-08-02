@@ -26,10 +26,9 @@ int power(int n, int k){
     int temp = power(n, k / 2);
     int result = (1LL * temp * temp) % c;
     
-  	if(k % 2){
+   if(k % 2){
         result = 1LL * result * n % c;
     }
 
     return result;
-}
-```
+}```

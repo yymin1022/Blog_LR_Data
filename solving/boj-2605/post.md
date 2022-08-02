@@ -15,6 +15,7 @@ int main(){
     int num;
     vector<int> command;
     vector<int> student;
+    vector<int> temp;
 
     cin >> num;
 
@@ -40,5 +41,4 @@ int main(){
     }
 
     return 0;
-}
-```
+}```

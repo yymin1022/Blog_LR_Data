@@ -63,5 +63,4 @@ void check(int x, int y, int width){
     if(isOK){
         cnt[current + 1]++;
     }
-}
-```
+}```

@@ -41,5 +41,4 @@ int main(){
     search(0);
 
     return 0;
-}
-```
+}```

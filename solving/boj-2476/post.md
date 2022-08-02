@@ -48,5 +48,4 @@ int main(){
     }
 
     cout << *max_element(money.begin(), money.end());
-}
-```
+}```

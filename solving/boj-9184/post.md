@@ -53,5 +53,4 @@ int w(int a, int b, int c){
         isVisit[a][b][c] = true;
         return dp[a][b][c] = w(a - 1, b, c) + w(a - 1, b - 1, c) + w(a - 1, b, c - 1) - w(a - 1, b - 1, c - 1);
     }
-}
-```
+}```

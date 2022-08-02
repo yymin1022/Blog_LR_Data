@@ -70,5 +70,4 @@ void dfs(int current){
             dfs(next);
         }
     }
-}
-```
+}```

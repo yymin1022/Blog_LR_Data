@@ -28,5 +28,4 @@ int main(){
     cout << min(min(dp[N][0], dp[N][1]), dp[N][2]) << "\n";
 
     return 0;
-}
-```
+}```

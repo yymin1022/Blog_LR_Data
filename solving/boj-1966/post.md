@@ -65,5 +65,4 @@ int getMaxQ(){
     }
 
     return maxValue;
-}
-```
+}```

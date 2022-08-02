@@ -1,6 +1,7 @@
 [문제 바로가기](https://boj.kr/10798)
 
 ```c++
+#include <algorithm>
 #include <iostream>
 #include <string>
 #include <vector>
@@ -29,5 +30,4 @@ int main(){
     }
 
     return 0;
-}
-```
+}```

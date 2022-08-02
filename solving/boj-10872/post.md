@@ -24,5 +24,4 @@ int main(){
     cout << factorial(N) << "\n";
 
     return 0;
-}
-```
+}```

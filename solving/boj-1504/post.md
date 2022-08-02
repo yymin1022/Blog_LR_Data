@@ -77,5 +77,4 @@ int dijkstra(int from, int to){
     }
 
     return distance[to];
-}
-```
+}```

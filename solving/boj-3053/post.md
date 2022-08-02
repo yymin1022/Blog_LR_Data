@@ -19,5 +19,4 @@ int main(){
     cout << R * R * 2 << "\n";
 
     return 0;
-}
-```
+}```

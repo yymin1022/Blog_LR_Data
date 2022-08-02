@@ -46,5 +46,4 @@ void dfs(int num){
             dfs(newNum);
         }
     }
-}
-```
+}```

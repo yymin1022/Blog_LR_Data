@@ -16,5 +16,4 @@ int main(){
     cout << N * (N - 1) << "\n";
     
     return 0;
-}
-```
+}```

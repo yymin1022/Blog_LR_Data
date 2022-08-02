@@ -72,5 +72,4 @@ void preOrder(int root){
     if(right > 0){
         preOrder(right);
     }
-}
-```
+}```

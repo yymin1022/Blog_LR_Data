@@ -80,5 +80,4 @@ deque<string> split(string str, char cut) {
     }
  
     return result;
-}
-```
+}```

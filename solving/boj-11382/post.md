@@ -10,9 +10,9 @@ int main(){
     cout.tie(NULL);
     ios_base::sync_with_stdio(false);
 
-    int sum = 0;
+    long long sum = 0;
     for(int i = 0; i < 3; i++){
-        int num;
+        long long num;
         cin >> num;
         sum += num;
     }
@@ -20,5 +20,4 @@ int main(){
     cout << sum << "\n";
 
     return 0;
-}
-```
+}```

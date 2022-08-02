@@ -18,5 +18,4 @@ int main(){
     cout << "Royal Cruiser  Light Combat   Limited    4         " << "\n";
 
     return 0;
-}
-```
+}```

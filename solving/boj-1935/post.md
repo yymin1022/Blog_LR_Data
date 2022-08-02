@@ -55,5 +55,4 @@ int main(){
     cout << numStack.top() << "\n";
 
     return 0;
-}
-```
+}```

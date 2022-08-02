@@ -50,5 +50,4 @@ int main(){
     cout << time << " " << height << "\n";
 
     return 0;
-}
-```
+}```

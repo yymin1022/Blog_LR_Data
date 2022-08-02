@@ -60,5 +60,4 @@ void dijkstra(int start){
                     pq.push({distances[graph[now.second][i].first] = nextDist, graph[now.second][i].first});
             }
         }
-}
-```
+}```

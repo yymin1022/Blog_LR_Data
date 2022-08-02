@@ -27,5 +27,4 @@ int main(){
     cout << sum / 5 << "\n" << nums[2];
 
     return 0;
-}
-```
+}```

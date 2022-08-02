@@ -16,5 +16,4 @@ int main(){
     cout << B - A << "\n";
 
     return 0;
-}
-```
+}```

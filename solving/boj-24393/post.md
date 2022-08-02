@@ -64,5 +64,4 @@ int main(){
             mainDeque.pop();
         }
     }
-}
-```
+}```

@@ -16,5 +16,4 @@ int main(){
     cout << (long long)pow(X, 3) << "\n";
 
     return 0;
-}
-```
+}```

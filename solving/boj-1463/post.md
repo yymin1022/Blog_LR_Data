@@ -37,5 +37,4 @@ int main(){
     cout << nums[N] << "\n";
 
     return 0;
-}
-```
+}```

@@ -15,5 +15,4 @@ int main(){
     cout << M * 2 - Y << "\n";
 
     return 0;
-}
-```
+}```

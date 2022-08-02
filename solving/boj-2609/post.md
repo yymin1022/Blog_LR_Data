@@ -25,5 +25,4 @@ int main(){
     cout << a * b / gcd << "\n";
     
     return 0;
-}
-```
+}```

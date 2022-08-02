@@ -45,5 +45,4 @@ int getNumber(vector<int> temp){
     }
 
     return result;
-}
-```
+}```

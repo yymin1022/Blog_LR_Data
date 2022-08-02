@@ -50,5 +50,4 @@ bool check(int x, int y){
         return true;
     }
     return false;
-}
-```
+}```

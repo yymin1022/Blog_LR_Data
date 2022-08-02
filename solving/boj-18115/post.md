@@ -42,5 +42,4 @@ int main(){
         cout << cards.front() << " ";
         cards.pop_front();
     }
-}
-```
+}```

@@ -38,5 +38,4 @@ void dp(int num){
             result[i] = result[i - 1] + result[i - 2] + result[i - 3];
         }
     }
-}
-```
+}```

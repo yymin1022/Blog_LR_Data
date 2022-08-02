@@ -25,5 +25,4 @@ int main(){
     cout << count(cars.begin(), cars.end(), num);
 
     return 0;
-}
-```
+}```

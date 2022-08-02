@@ -101,5 +101,4 @@ void checkNormal(int x, int y, char current){
         checkNormal(x, y - 1, current);
         checkNormal(x, y + 1, current);
     }
-}
-```
+}```

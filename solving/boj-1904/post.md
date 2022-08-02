@@ -31,5 +31,4 @@ int calc(int num){
     }
     
     return dp[num];
-}
-```
+}```

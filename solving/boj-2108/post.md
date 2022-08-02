@@ -54,5 +54,4 @@ int main(){
     cout << range << "\n";
 
     return 0;
-}
-```
+}```

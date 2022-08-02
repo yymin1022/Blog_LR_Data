@@ -75,5 +75,4 @@ void bfs(){
             isDone[newNum] = true;
         }
     }
-}
-```
+}```

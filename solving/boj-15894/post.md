@@ -16,5 +16,4 @@ int main(){
     cout << n * 4 << "\n";
     
     return 0;
-}
-```
+}```

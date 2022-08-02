@@ -16,5 +16,4 @@ int main(){
     cout << K / M << " " << K % M << "\n";
     
     return 0;
-}
-```
+}```

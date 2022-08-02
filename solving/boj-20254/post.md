@@ -16,5 +16,4 @@ int main(){
     cout << Ur * 56 + Tr * 24 + Uo * 14 + To * 6 << "\n";
 
     return 0;
-}
-```
+}```

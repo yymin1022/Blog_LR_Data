@@ -58,5 +58,4 @@ void search(int x, int y, int cnt, int isWhite){
     }
 
     search(x + 2, y, cnt, isWhite);
-}
-```
+}```

@@ -53,5 +53,4 @@ int main(){
     cout << money << "\n";
 
     return 0;
-}
-```
+}```

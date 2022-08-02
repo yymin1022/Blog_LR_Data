@@ -20,5 +20,4 @@ int main(){
     cout << score << "\n";
 
     return 0;
-}
-```
+}```

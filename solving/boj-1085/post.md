@@ -19,5 +19,4 @@ int main(){
     cout << min(horizontal, vertical);
     
     return 0;
-}
-```
+}```

@@ -59,5 +59,4 @@ void bfs(int from){
             }
         }
     }
-}
-```
+}```

@@ -1,4 +1,4 @@
-[문제 바로가기](https://boj.kr/2798)
+[문제 바로가기](https://boj.kr/15651)
 
 ```c++
 #include <bits/stdc++.h>
@@ -37,5 +37,4 @@ int main(){
     search(0);
 
     return 0;
-}
-```
+}```

@@ -85,5 +85,4 @@ void dfs(int cnt){
         }
     }
     sudoku[curX][curY] = 0;
-}
-```
+}```

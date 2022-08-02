@@ -24,5 +24,4 @@ int main(){
     cout << fibonacci(N) << "\n";
 
     return 0;
-}
-```
+}```

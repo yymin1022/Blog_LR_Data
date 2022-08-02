@@ -23,5 +23,4 @@ int main(){
     cout << weight << "\n";
 
     return 0;
-}
-```
+}```

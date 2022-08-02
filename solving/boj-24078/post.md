@@ -16,5 +16,4 @@ int main(){
     cout << X % 21 << "\n";
 
     return 0;
-}
-```
+}```

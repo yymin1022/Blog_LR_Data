@@ -28,5 +28,4 @@ int main(){
     cout << dp[a.size()][b.size()] << "\n";
 
     return 0;
-}
-```
+}```

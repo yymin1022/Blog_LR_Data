@@ -59,5 +59,4 @@ void search(int x, int y, int size){
         }
         cnt++;
     }
-}
-```
+}```

@@ -20,5 +20,4 @@ int main(){
     cout << time / 60 << "\n" << time % 60 << "\n";
 
     return 0;
-}
-```
+}```

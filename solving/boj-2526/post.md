@@ -27,5 +27,4 @@ int main(){
     cout << history.size() - (find(history.begin(), history.end(), num) - history.begin());
 
     return 0;
-}
-```
+}```

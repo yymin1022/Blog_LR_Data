@@ -10,8 +10,7 @@ int main(){
     cout.tie(NULL);
     ios_base::sync_with_stdio(false);
 
-    cout << "�" << "\n";
+    cout << "�";
 
     return 0;
-}
-```
+}```

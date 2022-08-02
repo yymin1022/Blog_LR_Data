@@ -18,5 +18,4 @@ int main(){
     cout << R2 << "\n";
 
     return 0;
-}
-```
+}```

@@ -45,5 +45,4 @@ void dfs(int idx){
             dfs(i);
         }
     }
-}
-```
+}```

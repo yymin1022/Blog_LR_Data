@@ -43,5 +43,4 @@ bool isInside(int pointX, int pointY, int planetX, int planetY, int planetR){
     }
 
     return false;
-}
-```
+}```

@@ -4,34 +4,46 @@
 #include <bits/stdc++.h>
 
 using namespace std;
- 
+
+int N, M;
+bool selected[9];
+
+vector<int> nums;
+vector<int> selectedNum;
+void search(int count){
+    if(count == M){
+        for(int i = 0; i < selectedNum.size(); i++){
+            cout << selectedNum[i] << " ";
+        }
+        cout << "\n";
+        return;
+    }
+
+    for(int i = 0; i < N; i++){
+        selected[i] = true;
+        selectedNum.push_back(nums[i]);
+        search(count + 1);
+        selected[i] = false;
+        selectedNum.pop_back();
+    }
+}
+
 int main(){
     cin.tie(NULL);
     cout.tie(NULL);
-    ios_base::sync_with_stdio(0);
+    ios_base::sync_with_stdio(false);
 
-    int N, M;
     cin >> N >> M;
 
-    vector<int> numbers;
     for(int i = 0; i < N; i++){
-        int inputN;
-        cin >> inputN;
-        numbers.push_back(inputN);
+        int input;
+        cin >> input;
+        nums.push_back(input);
     }
 
-    int answer = 0;
-    for(int i = 0; i < N - 2; i++){
-        for(int j = i + 1; j < N - 1; j++){
-            for(int k = j + 1; k < N; k++){
-                int sum = numbers[i] + numbers[j] + numbers[k];
-                if(answer < sum && sum <= M){
-                    answer = sum;
-                }
-            }
-        }
-    }
+    sort(nums.begin(), nums.end());
 
-    cout << answer;
-}
-```
+    search(0);
+
+    return 0;
+}```

@@ -35,5 +35,4 @@ void printStar(int x, int y, int tempN){
     }else{
         printStar(x, y, tempN / 3);
     }
-}
-```
+}```

@@ -29,5 +29,4 @@ void hanoii(int n, int from, int to){
         cout << from << " " << to << "\n";
         hanoii(n - 1, 6 - from - to, to);
     }
-}
-```
+}```

@@ -59,5 +59,4 @@ void whatIsRecursive(int num){
 
     printBar(num);
     cout << "라고 답변하였지." << "\n";
-}
-```
+}```

@@ -37,5 +37,4 @@ int main(){
     cout << answer % 1000000000;
 
     return 0;
-}
-```
+}```

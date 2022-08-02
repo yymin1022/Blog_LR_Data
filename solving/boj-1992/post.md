@@ -54,5 +54,4 @@ void check(int x, int y, int size){
     if(isOK){
         cout << start;
     }
-}
-```
+}```

@@ -10,11 +10,10 @@ int main(){
     cout.tie(NULL);
     ios_base::sync_with_stdio(false);
 
-    int A, B;
+    long long A, B;
     cin >> A >> B;
 
     cout << (A + B) * (A - B) << "\n";
     
     return 0;
-}
-```
+}```

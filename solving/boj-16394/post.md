@@ -15,5 +15,4 @@ int main(){
     cout << N - 1946 << "\n";
 
     return 0;
-}
-```
+}```

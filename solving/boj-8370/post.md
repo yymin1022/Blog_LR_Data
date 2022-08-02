@@ -15,5 +15,4 @@ int main(){
     cout << n1 * k1 + n2 * k2 << "\n";
 
     return 0;
-}
-```
+}```

@@ -46,5 +46,4 @@ void check(int x, int y, int size){
     }
 
     result[std]++;
-}
-```
+}```
