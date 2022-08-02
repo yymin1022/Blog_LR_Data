@@ -1,4 +1,4 @@
-[문제 바로가기](https://boj.kr/110808)
+[문제 바로가기](https://boj.kr/10808)
 
 ```c++
 #include <bits/stdc++.h>
