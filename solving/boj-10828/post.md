@@ -1,46 +1,48 @@
 [문제 바로가기](https://boj.kr/10828)
 
 ```c++
-#include <iostream>
-#include <stack>
-#include <string>
+#include <bits/stdc++.h>
 
 using namespace std;
 
 int main(){
+    cin.tie(0);
+    cout.tie(0);
+    ios_base::sync_with_stdio(false);
+
     int num;
     cin >> num;
 
     stack<int> numStack;
-
     for(int i = 0; i < num; i++){
-        string command;
-        cin >> command;
+        string cmd;
+        cin >> cmd;
 
-        if(command == "push"){
+        if(cmd == "push"){
             int input;
             cin >> input;
 
             numStack.push(input);
-        }else if(command == "pop"){
+        }else if(cmd == "pop"){
             if(!numStack.empty()){
-                cout << numStack.top() << endl;
+                cout << numStack.top() << "\n";
                 numStack.pop();
             }else{
-                cout << -1 << endl;
+                cout << -1 << "\n";
             }
-        }else if(command == "size"){
-            cout << numStack.size() << endl;
-        }else if(command == "empty"){
-            cout << (int)numStack.empty() << endl;
-        }else if(command == "top"){
+        }else if(cmd == "size"){
+            cout << numStack.size() << "\n";
+        }else if(cmd == "empty"){
+            cout << (int)numStack.empty() << "\n";
+        }else if(cmd == "top"){
             if(!numStack.empty()){
-                cout << numStack.top() << endl;
+                cout << numStack.top() << "\n";
             }else{
-                cout << -1 << endl;
+                cout << -1 << "\n";
             }
         }
     }
 
     return 0;
-}```
+}
+``
