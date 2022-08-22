@@ -99,4 +99,5 @@
 - [Instagram](https://instagram.com/useful_min)
 - [KakaoTalk](https://open.kakao.com/o/sr5Chgse)
 - [LinkedIn](https://www.linkedin.com/in/%EC%9A%A9%EB%AF%BC-%EC%9C%A0-33992a230)
+- [Solved.AC](https://solved.ac/yymin1022)
 - [Twitter](https://twitter.com/yymin1022)
