@@ -78,7 +78,7 @@
 
 ### Which device am I using?
 - Desktop : Intel i5-12600K / DDR4 32GB / 512GB NVME + 1TB HDD + 500GB HDD / Windows 11
-- Laptop : Main with Apple MacBook Air 2020 / Apple Silivon M1 / LPDDR4X 16GB / 512GB NVMe / MacOS 12 Monterey
+- Laptop : Main with Apple MacBook Air 2020 / Apple Silicon M1 / LPDDR4X 16GB / 512GB NVMe / MacOS 12 Monterey<br/>
   Sub with LG Gram15 2019 / Intel i5-8265u / DDR4 16GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
 - NAS : ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 7TB HDD + 128GB NVMe / XPEnology 7.1.0
 - Service Server : Intel Celeron J4125 / DDR4 16GB / 250GB SATA SSD / ESXi 6.7.0
