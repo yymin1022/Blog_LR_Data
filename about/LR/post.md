@@ -4,7 +4,7 @@
 - [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
-- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University (2기 Core Member)
+- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University (2기 CoreMember)
 
 ---
 
@@ -18,12 +18,31 @@
 - 2017 STEAM R&E 한국과학창의재단 이사장상 : 보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안 / [상세보기](https://steam.kofac.re.kr/?p=11978) / [소스코드](https://github.com/yymin1022/Pedetector)
 - 2017 서울시 앱공모전 예선 당선 : 너 왜 거기있어 - 분실물 조회 서비스 / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
 - 2019 스마트서울 모바일 앱공모전 장려상 : Soul Rest - 서울에서 소울을 힐링하다 / [소스코드](https://github.com/yymin1022/SeoulHealing)
+- 2021 대한민국 공군 ROKAF 사이버전사 경연대회 10등 / 75명
+- 2022 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상
+
+---
+
+### Certificate
+- 국가공인 리눅스마스터 2급
+
+---
+
+### Mentoring / Study
+- Mentoring Lead
+  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08.
+  - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01. ~ Ongoing
+  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ Ongoing
+  - Python Basic - 2023. 01. ~ Ongoing
+  - [HTTP](https://yymin1022.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
+  - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
 
 ---
 
 ### What can I do?
 - Android : Application / Kernel Build / OS Build / Smali Edit Porting
 - C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel
+- CI / CD : Build & Release Automation with Jenkins
 - Docker : Container Build & Release / Server Management
 - Flutter : Android Application / iOS Application / Web
 - Java : Console / Swing GUI
@@ -45,7 +64,6 @@
 - [CECOM](https://cecom.dev) - React.JS(Front-End) / Flask(Back-End)
 - [Def:Con](https://defcon.or.kr) - React.JS
 - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front-End) / Node.JS(Back-End)
-- [ECOmunity](https://eco.defcon.or.kr) - React.JS(Front-End) / Node.JS(Back-End)
 
 ---
 
@@ -79,17 +97,19 @@
 ---
 
 ### Which device am I using?
-- Desktop : Intel i5-12600K / DDR4 32GB / 512GB NVME + 1TB HDD + 500GB HDD / Windows 11
+- Desktop : Intel i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop : Main with Apple MacBook Air 2020 / Apple Silicon M1 / LPDDR4X 16GB / 512GB NVMe / MacOS 12 Monterey<br/>
-  Sub with LG Gram15 2019 / Intel i5-8265u / DDR4 16GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
-- NAS : ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 7TB HDD + 128GB NVMe / XPEnology 7.1.0
+  Sub with LG Gram15 2019 / Intel i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
+- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS + 128GB NVMe / XPEnology DSM 7.1.1<br/>
+  Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 1TB HDD / Synology DSM 7.1.1
 - Service Server : Intel Celeron J4125 / DDR4 16GB / 250GB SATA SSD / ESXi 6.7.0
-- Phone : Main with Google Pixel 4XL with Android 13<br/>
-  Sub with Samsung Galaxy A32 LTE with Android 12
-- Tablet : Apple iPad Pro 11" 2nd with iPadOS 15<br/>
+- Phone : Main with Google Pixel 6 Pro with Android 13<br/>
+  Sub with Samsung Galaxy A32 LTE with Android 13
+- Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
   Google Pixel C with Android 12<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : LG Watch W7 with WearOS 2.0
+- Audio : Sony WF-1000XM4 / Google Pixel Buds 2nd / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
 - ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
