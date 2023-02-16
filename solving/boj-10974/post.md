@@ -1,6 +1,6 @@
 [문제 바로가기](https://boj.kr/10974)
 
-```python
+```c++
 #include  <bits/stdc++.h>
 
 using namespace std;
