@@ -37,7 +37,7 @@
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ 2022. 02.
   - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
   - Python Basic - 2023. 01. ~ 2023. 02.
-- Study
+- Group Study
   - [HTTP](https://yymin1022.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
   - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
 
@@ -108,7 +108,6 @@
   Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
 - NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS + 128GB NVMe / XPEnology DSM 7.1.1<br/>
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 1TB HDD / Synology DSM 7.1.1
-- Build Server : Intel Core i5-4440 / DDR3L 8GB / 120GB SATA SSD / ESXi 6.7.0
 - Service Server : Intel Celeron J4125 / DDR4 16GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
   Sub with Samsung Galaxy A32 LTE with Android 13
