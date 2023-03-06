@@ -4,16 +4,13 @@
 지난 2월, 저희 학교 소프트웨어학부의 오픈채팅에 한가지 모집공고가 올라온 것을 보게 되었습니다.
 
 <center>
-<img src="1-announcement.jpg" width="50%" />
+<img src="1-announcement.jpg" width="40%" />
+<img src="2-pass-message.png" width="40%" />
 </center>
 
 지난 2022-2학기부터 활동해온 Google DSC 학생개발자 커뮤니티를 통해 IT라는 주제로 여러 사람들과 교류하고 이야기하는 것에 흥미를 갖게 된 저는,
 SKT에서 운영하는 개발 블로그인 DevOcean에서 대학생 테크인플루언서로 활동할 수 있는 이 기회를 놓치고싶지 않았습니다.
 그렇게 지원서를 작성하게 되었고, 운이 좋게도 2월 27일, 합격했다는 내용의 문자를 받을 수 있었습니다.
-
-<center>
-<img src="2-pass-message.png" width="50%" />
-</center>
 
 그리고 지난 3월 3일, DevOcean Young 2기 활동의 시작을 알리는 발대식이 을지로의 SKT T타워에서 있었는데요,
 
