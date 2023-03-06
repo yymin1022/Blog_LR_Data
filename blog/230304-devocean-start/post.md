@@ -4,7 +4,7 @@
 지난 2월, 저희 학교 소프트웨어학부의 오픈채팅에 한가지 모집공고가 올라온 것을 보게 되었습니다.
 
 <center>
-<img src="1-announcement.jpg" width="75%" />
+<img src="1-announcement.jpg" width="50%" />
 </center>
 
 지난 2022-2학기부터 활동해온 Google DSC 학생개발자 커뮤니티를 통해 IT라는 주제로 여러 사람들과 교류하고 이야기하는 것에 흥미를 갖게 된 저는,
@@ -12,7 +12,7 @@ SKT에서 운영하는 개발 블로그인 DevOcean에서 대학생 테크인플
 그렇게 지원서를 작성하게 되었고, 운이 좋게도 2월 27일, 합격했다는 내용의 문자를 받을 수 있었습니다.
 
 <center>
-<img src="2-pass-message.png" width="75%" />
+<img src="2-pass-message.png" width="50%" />
 </center>
 
 그리고 지난 3월 3일, DevOcean Young 2기 활동의 시작을 알리는 발대식이 을지로의 SKT T타워에서 있었는데요,
@@ -20,11 +20,8 @@ SKT에서 운영하는 개발 블로그인 DevOcean에서 대학생 테크인플
 시간이 조금 촉박했던 탓에, 을지로입구역 지하에서 연결된 통로로 들어간 탓에, 웅장한 T타워의 모습을 기록으로 남기지 못한 점이 조금 아쉽네요..
 
 <center>
-<img src="3-skt-entrance.jpg" width="30%" />
-</center>
-
-<center>
-<img src="4-skt-visitor-card.jpg" width="30%" />
+<img src="3-skt-entrance.jpg" width="40%" />
+<img src="4-skt-visitor-card.jpg" width="40%" />
 </center>
 
 가장먼저 DevOcean을 담당하는 운영자님, 현재 SKT에서 개발업무를 진행하고 계신 여러 전문가분들이
@@ -46,11 +43,8 @@ DevOcean Young 2기의 선발과 활동 시작을 축하하는 말씀을 해주�
 앞으로도 9개월간 이런저런 많은 활동들을 함께하면서, 재미도 있고 의미도 있는 시간들이 되었으면 좋겠습니다.
 
 <center>
-<img src="6-skt-sticker.jpg" width="30%" />
-</center>
-
-<center>
-<img src="7-skt-charger.jpg" width="30%" />
+<img src="6-skt-sticker.jpg" width="40%" />
+<img src="7-skt-charger.jpg" width="40%" />
 </center>
 
 앞으로도 DevOcean 활동을 진행하며 여러가지 내용을 공유해보도록 하겠습니다.
