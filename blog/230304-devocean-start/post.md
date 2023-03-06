@@ -44,11 +44,11 @@ DevOcean Young 2기의 선발과 활동 시작을 축하하는 말씀을 해주�
 <img src="7-skt-charger.jpg" width="40%" />
 </center>
 
-앞으로도 DevOcean 활동을 진행하며 여러가지 내용을 공유해보도록 하겠습니다.
-
 <center>
-<img src="8-skt-namecard.jpg" width="75%" />
+<img src="8-skt-namecard.jpg" width="80%" />
 </center>
+
+앞으로도 DevOcean 활동을 진행하며 여러가지 내용을 공유해보도록 하겠습니다!
 
 지금까지,<br/>
 LR이었습니다!
