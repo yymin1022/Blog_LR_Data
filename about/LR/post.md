@@ -1,6 +1,7 @@
 ﻿### Who am I?
 - 대학생 1인 개발자
 - 중앙대학교 소프트웨어학부 (2019. 3. ~ )
+- [42 Seoul](https://42seoul.kr) 9기 Cadet
 - [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
