@@ -6,7 +6,7 @@
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
 - [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University (2기 CoreMember)
-- [SKT DevOcean](https://devocean.sk.com) - DevOcean Young 2기 (2023)
+- [SKT DEVOCEAN](https://devocean.sk.com) - DEVOCEAN YOUNG 2기 (2023)
 
 ---
 
@@ -46,10 +46,10 @@
 
 ### What can I do?
 - Android : Application / Kernel Build / OS Build / Smali Edit Porting
-- C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel / 42Seoul La Piscine
+- C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel
 - CI / CD : Build & Release Automation with Jenkins
 - Docker : Container Build & Release / Server Management
-- Flutter : Android Application / iOS Application / Web
+- Flutter : Android Application / iOS Application / Mac Application / Web / Windows Program
 - Java : Console / Swing GUI
 - Linux : Apache2, NginX Hosting / Kernel Build / OS Management / Server Management
 - Next.JS : SPA SSR Web Page (JS / TS)
