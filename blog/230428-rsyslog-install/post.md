@@ -6,9 +6,6 @@
 그리고 지난번 포스팅에서 다루었던 **Adguard Home**을 구동중인 DNS 서버 등등<br/>
 다양한 장비를 구축하고 활용중에 있습니다.
 
-
-[OpenVPN 서버 구축 포스팅](https://dev-lr.com/postview/blog/00026)
-
 뭔가 자꾸 하나씩 직접 호스팅하고 관리해보자..! 하는 생각을 가지고 구축하다보니<br/>
 현재까지의 장비 구성이 이렇게나 많아지게 되었는데요,
 
@@ -28,8 +25,6 @@
 
 먼저 저는 로그서버에 사용할 장비로 `ODroid xu4` 장비를 선택했습니다.<br/>
 이 장비는 기존에 `Adguard Home`을 설치해 DNS서버 목적으로 사용하고 있었는데요,
-
-[AdGuard DNS서버 구축 포스팅](https://dev-lr.com/postview/blog/00025)
 
 로그서버의 특성상 디스크 읽기쓰기가 굉장히 잦을텐데, SD카드를 이용했다가는 수명이 오래가지 못할 것 같다는 생각에<br/>
 EMMC를 이용할 수 있는 `ODroid xu4`를 사용하기로 하였습니다.
@@ -141,6 +136,9 @@ Synology NAS의 경우는 로그센터 패키지의 로그 전송 메뉴에서 �
 
 이상으로 `rsyslog` 서버 구축 과정 소개 포스팅을 마치도록 하겠습니다!
 혹시, 관련해서 문의사항이나 궁금한 점이 있으시면 댓글로 남겨주시기 바랍니다.
+
+[OpenVPN 서버 구축 포스팅](https://dev-lr.com/postview/blog/00026)
+[AdGuard DNS서버 구축 포스팅](https://dev-lr.com/postview/blog/00025)
 
 지금까지,<br/>
 LR이었습니다!
