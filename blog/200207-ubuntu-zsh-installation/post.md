@@ -43,7 +43,7 @@ $ sudo apt-get install zsh
 변경하는 과정에서 암호가 필요하면 요구하니, 곡 입력해주세요.
 
 ```bash
-$ chsh -S /usr/bin/zsh
+$ chsh -s /usr/bin/zsh
 ```
 
 <center>
