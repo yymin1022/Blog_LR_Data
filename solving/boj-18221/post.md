@@ -1,56 +1,50 @@
 [문제 바로가기](https://boj.kr/18221)
 
 ```c++
-#include <iostream>
-#include <queue>
-#include <string>
+#include <bits/stdc++.h>
 
 using namespace std;
 
+int desk[1001][1001];
+
 int main(){
-    ios_base :: sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
+    cin.tie(0);
+    cout.tie(0);
+    ios_base::sync_with_stdio(false);
 
-    int num;
-    cin >> num;
+    int N;
+    cin >> N;
 
-    queue<int> numQueue;
+    int sR, sC, pR, pC;
+    for(int i = 0; i < N; i++){
+        for(int j = 0; j < N; j++){
+            cin >> desk[i][j];
 
-    for(int i = 0; i < num; i++){
-        string command;
-        cin >> command;
-
-        if(command == "push"){
-            int input;
-            cin >> input;
-
-            numQueue.push(input);
-        }else if(command == "pop"){
-            if(!numQueue.empty()){
-                cout << numQueue.front() << "\n";
-                numQueue.pop();
-            }else{
-                cout << -1 << "\n";
-            }
-        }else if(command == "size"){
-            cout << numQueue.size() << "\n";
-        }else if(command == "empty"){
-            cout << (int)numQueue.empty() << "\n";
-        }else if(command == "front"){
-            if(!numQueue.empty()){
-                cout << numQueue.front() << "\n";
-            }else{
-                cout << -1 << "\n";
-            }
-        }else if(command == "back"){
-            if(!numQueue.empty()){
-                cout << numQueue.back() << "\n";
-            }else{
-                cout << -1 << "\n";
+            if(desk[i][j] == 2){
+                sR = i;
+                sC = j;
+            }else if(desk[i][j] == 5){
+                pR = i;
+                pC = j;
             }
         }
     }
 
+    int cnt = 0;
+    for(int i = (sR > pR ? pR : sR); i <= (sR > pR ? sR : pR); i++){
+        for(int j = (sC > pC ? pC : sC); j <= (sC > pC ? sC : pC); j++){
+            if(desk[i][j] == 1){
+                cnt++;
+            }
+        }
+    }
+
+    if(sqrt((sR - pR) * (sR - pR) + (sC - pC) * (sC - pC)) >= 5 && cnt >= 3){
+        cout << 1 << "\n";
+    }else{
+        cout << 0 << "\n";
+    }
+
     return 0;
-}```
+}
+```
