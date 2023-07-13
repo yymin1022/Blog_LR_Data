@@ -1,11 +1,29 @@
-﻿### Who am I?
+﻿[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=대학생%201인%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=yymin1022&count_private=true&show_icons=true&theme=dark)](https://github.com/yymin1022)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
+
+[![My trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
+
+[![yonyoo's 42 Stats](https://badge42.vercel.app/api/v2/clf70q4an00920fmdpwjuw6kl/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
+
+[![committers.top Badge](https://user-badge.committers.top/south_korea_public/yymin1022.svg)](https://user-badge.committers.top/south_korea_public/yymin1022)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyymin1022&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/yymin1022)
+
+---
+
+### Who am I?
 - 대학생 1인 개발자
-- 중앙대학교 소프트웨어학부 (2019. 3. ~ )
+- 중앙대학교 소프트웨어학부 (2019. 3. ~)
 - [42 Seoul](https://42seoul.kr) 9기 Cadet
-- [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
-- [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리
+- [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
+- CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
-- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University (2기 CoreMember)
+- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University (2기 Core Member)
 - [SKT DEVOCEAN](https://devocean.sk.com) - DEVOCEAN YOUNG 2기 (2023)
 
 ---
@@ -38,6 +56,7 @@
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ 2022. 02.
   - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
   - Python Basic - 2023. 01. ~ 2023. 02.
+  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) + [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) from [CECOM](https://cecom.dev) - 2023. 04. ~ 2023. 06.
 - Group Study
   - [HTTP](https://yymin1022.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
   - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
@@ -74,7 +93,7 @@
 ---
 
 ### Other Projects
-- Android - 중앙대학교 서울캠퍼스 107관(학생회관) 건물안내 키오스크 / [소스코드](https://github.com/yymin1022/CAUKiosk_107)
+- Android - 중앙대학교 서울캠퍼스 107관(학생회관), 310관(경영경제관) 건물안내 키오스크 / [소스코드](https://github.com/yymin1022/CAUKiosk_107)
 - Android - Always On Display / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
 - Android - Screen Saver / [소스코드](https://github.com/yymin1022/ScreenSaver)
 - Android - Soul Rest / [소스코드](https://github.com/yymin1022/SeoulHealing)
@@ -105,11 +124,11 @@
 
 ### Which device am I using?
 - Desktop : Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
-- Laptop : Main with Apple MacBook Air 2020 / Apple Silicon M1 / LPDDR4X 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
+- Laptop : Main with Apple MacBook Pro 2023 / Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
   Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
-- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS + 128GB NVMe / XPEnology DSM 7.1.1<br/>
-  Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 1TB HDD / Synology DSM 7.1.1
-- Service Server : Intel Celeron J4125 / DDR4 16GB / 250GB SATA SSD / ESXi 6.7.0
+- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.1.1<br/>
+  Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 8TB HDD / Synology DSM 7.2
+- Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
   Sub with Samsung Galaxy A32 LTE with Android 13
 - Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
