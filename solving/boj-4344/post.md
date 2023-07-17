@@ -1,33 +1,45 @@
 [문제 바로가기](https://boj.kr/4344)
 
-```c
-#include <stdio.h>
+```c++
+#include <bits/stdc++.h>
+
+using namespace std;
 
 int main(){
-    int count;
+    cin.tie(0);
+    cout.tie(0);
+    ios_base::sync_with_stdio(false);
 
-    scanf("%d", &count);
+    int C;
+    cin >> C;
 
-    for(int i = 0; i < count; i++){
-        int num, sum = 0;
-        scanf("%d", &num);
+    while(C--){
+        int N;
+        cin >> N;
 
-        int score[num];
-        for(int j = 0; j < num; j++){
-            scanf("%d", score + j);
-            sum += score[j];
+        int avg = 0;
+        vector<int> score;
+        for(int i = 0; i < N; i++){
+            int input;
+            cin >> input;
+            score.push_back(input);
+            avg += input;
         }
 
-        float avg = (double)sum / (double)num;
-        int students = 0;
-
-        for(int j = 0; j < num; j++){
-            if(score[j] > avg){
-                students++;
+        avg /= N;
+        float cnt = 0;
+        for(int i = 0; i < N; i++){
+            if(score[i] > avg){
+                cnt += 1;
             }
         }
 
-        printf("%.3f%%\n", (double)students / (double)num * 100);
+        cnt *= 100000;
+        cnt /= N;
+
+        cout << fixed;
+        cout.precision(3);
+        cout << round(cnt) / 1000 << "%\n";
     }
 
     return 0;

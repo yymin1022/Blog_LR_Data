@@ -6,8 +6,8 @@
 using namespace std;
 
 int main() {
-    cin.tie(NULL);
-    cout.tie(NULL);
+    cin.tie(0);
+    cout.tie(0);
     ios_base::sync_with_stdio(false);
 
     int N;
@@ -22,7 +22,7 @@ int main() {
 
     int fromL = 0;
     int fromR = N - 1;
-    long long answer = 100000001;
+    long long answer = 200000001;
     while(fromL < fromR){
         long long tempSum = liquid[fromL] + liquid[fromR];
 
@@ -43,4 +43,5 @@ int main() {
 
     return 0;
 }
+
 ```
