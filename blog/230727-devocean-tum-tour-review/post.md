@@ -43,7 +43,7 @@ T타워 입구를 통해 건물 내부로 들어서면 1층 바로 안쪽에 티
 이 하이퍼루프를 타고, 스페이스쉽과 도킹하여 우주관제센터로 떠나는 원정단 여정에 함께하게 되는데요,
 
 <center>
-<img src="7-hyper-loop.jpg" width="40%" />
+<img src="7-hyper-loop.jpg" width="75%" />
 </center>
 
 우주관제센터에 도착하면 캡틴이라는 분을 만나 각종 우주 관련 영상자료와<br/>
@@ -52,7 +52,7 @@ T타워 입구를 통해 건물 내부로 들어서면 1층 바로 안쪽에 티
 <center>
 <img src="8-space-center-1.jpg" width="75%" />
 <img src="9-space-center-2.jpg" width="75%" />
-<img src="10-space-center-3.jpg" width="40%" />
+<img src="10-space-center-3.jpg" width="75%" />
 </center>
 
 실제로 캡슐에 탑승하고 VR을 착용해 화산이 폭발한 지형으로 이동해<br/>
