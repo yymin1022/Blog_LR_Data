@@ -94,7 +94,8 @@ T타워 입구를 통해 건물 내부로 들어서면 1층 바로 안쪽에 티
 
 [티움투어 자세히보기](https://tum.sktelecom.com/main.do)
 
-DEVOCEAN YOUNG 들에게 좋은 기회를 만들어주신 SKT와 DEVOCEAN 매니저님께 감사인사를 전하며,<br/>
+DEVOCEAN YOUNG 들에게 좋은 기회를 만들어주신<br/>
+SKT와 DEVOCEAN 매니저님께 감사인사를 전하며,<br/>
 이만 글 마치도록 하겠습니다.
 
 감사합니다!
