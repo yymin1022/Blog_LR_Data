@@ -62,8 +62,8 @@
 ---
 
 ### Developed Applications
-- Always On Display / [상세보기](https://app.defcon.or.kr/download-always-on-display) / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
-- Taxi Meter / [상세보기](https://app.defcon.or.kr/download-taxi-meter) / [소스코드](https://github.com/yymin1022/Taxi-Meter)
+- Always On Display / [상세보기](https://play.google.com/store/apps/details?id=com.yong.aod) / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
+- Taxi Meter / [상세보기](https://play.google.com/store/apps/details?id=com.yong.taximeter) / [소스코드](https://github.com/yymin1022/Taxi-Meter)
 
 ---
 
