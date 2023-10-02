@@ -24,7 +24,7 @@ int main(){
             }
 
             for(int j = 0; j < cnt / 4; j++){
-                res += "AAAA";
+                res += "AAAA";1
             }
 
             if(cnt % 4 == 2){
