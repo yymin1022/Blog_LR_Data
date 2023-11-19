@@ -19,6 +19,27 @@
 
 ### Awards
 - 2017 STEAM R&E 한국과학창의재단 이사장상 : 보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안 / [상세보기](https://steam.kofac.re.kr/?p=11978) / [소스코드](https://github.com/yymin1022/Pedetector)
+- 2017 서울시 앱공모전 예### Who am I?
+- 대학생 1인 개발자
+- 중앙대학교 소프트웨어학부 (2019. 3. ~)
+- [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
+- [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
+- CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
+- [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
+- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Clubs Chung-Ang University 3기(23-24) Lead / 2기(22-23) CoreMember
+- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서DEVOCEAN YOUNG 2기 (2023. 3. ~)
+
+---
+
+### History
+- 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 (2020. 10. ~ 2022. 07.)
+- 서울 성보고등학교 과학중점학급 졸업 (2016. 3. ~ 2019. 2.)
+- 선린인터넷고등학교 정보영재교육원 수료 (2014. 3. ~ 2014. 12.)
+
+---
+
+### Awards
+- 2017 STEAM R&E 한국과학창의재단 이사장상 : 보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안 / [상세보기](https://steam.kofac.re.kr/?p=11978) / [소스코드](https://github.com/yymin1022/Pedetector)
 - 2017 서울시 앱공모전 예선 당선 : 너 왜 거기있어 - 분실물 조회 서비스 / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
 - 2019 스마트서울 모바일 앱공모전 장려상 : Soul Rest - 서울에서 소울을 힐링하다 / [소스코드](https://github.com/yymin1022/SeoulHealing)
 - 2021 대한민국 공군 ROKAF 사이버전사 경연대회 10등 / 75명
@@ -27,15 +48,16 @@
 ---
 
 ### Certificate
-- KAIT 국가공인 리눅스마스터 2급
 - Google Cloud Skill Boost : Kubernetes Solutions (2022. 10.)
+- KAIT 국가공인 리눅스마스터 2급 (2022. 10.)
+- TOPCIT 소프트웨어 역량 검정 Level 3 (2023. 06.)
 
 ---
 
 ### Mentoring / Study
 - Mentoring Lead
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08.
-  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ 2022. 02.
+  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ 2023. 02.
   - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
   - Python Basic - 2023. 01. ~ 2023. 02.
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) + [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) from [CECOM](https://cecom.dev) - 2023. 04. ~ 2023. 06.
@@ -52,6 +74,7 @@
 - Docker : Container Build & Release / Server Management
 - Flutter : Android Application / iOS Application / Mac Application / Web / Windows Program
 - Java : Console / Swing GUI
+- Kotlin : Android Application
 - Linux : Apache2, NginX Hosting / Kernel Build / OS Management / Server Management
 - Next.JS : SPA SSR Web Page (JS / TS)
 - Node.JS : Express Back-End Server (JS / TS)
@@ -63,7 +86,7 @@
 
 ### Developed Applications
 - Always On Display / [상세보기](https://play.google.com/store/apps/details?id=com.yong.aod) / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
-- Taxi Meter / [상세보기](https://play.google.com/store/apps/details?id=com.yong.taximeter) / [소스코드](https://github.com/yymin1022/Taxi-Meter)
+- Taxi Meter / [상세보기](https://play.google.com/store/apps/details?id=com.yong.taximeter) / [소스코드](https://github.com/yymin1022/TaxiMeter)
 
 ---
 
@@ -79,7 +102,7 @@
 - Android - Always On Display / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
 - Android - Screen Saver / [소스코드](https://github.com/yymin1022/ScreenSaver)
 - Android - Soul Rest / [소스코드](https://github.com/yymin1022/SeoulHealing)
-- Android - Taxi Meter / [소스코드](https://github.com/yymin1022/Taxi-Meter)
+- Android - Taxi Meter / [소스코드](https://github.com/yymin1022/TaxiMeter)
 - Android - Why Are You Here / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
 - Android Porting - LG G5 Launcher / [소스코드](https://github.com/yymin1022/G5_Launcher)
 - Android Porting - LG G5 Live Wallpaper / [소스코드](https://github.com/yymin1022/G5_LiveWallpapers)
@@ -108,12 +131,13 @@
 - Desktop : Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop : Main with Apple MacBook Pro 2023 / Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
   Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
-- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.1.1<br/>
+- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.2<br/>
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 8TB HDD / Synology DSM 7.2
+- Infra Server : ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 250GB SSD / ESXi 6.7.0
 - Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
   Sub with Samsung Galaxy A32 LTE with Android 13
-- Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
+- Tablet : Apple iPad Pro 11" 2nd with iPadOS 17<br/>
   Google Pixel C with Android 8<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : Google Pixel Watch with WearOS 3.5
@@ -128,6 +152,6 @@
 - [Facebook](https://www.facebook.com/profile.php?id=100007285635473)
 - [Instagram](https://instagram.com/useful_min)
 - [KakaoTalk](https://open.kakao.com/o/sr5Chgse)
-- [LinkedIn](https://www.linkedin.com/in/%EC%9A%A9%EB%AF%BC-%EC%9C%A0-33992a230)
+- [LinkedIn](https://www.linkedin.com/in/yymin1022)
 - [Solved.AC](https://solved.ac/yymin1022)
 - [Twitter](https://twitter.com/yymin1022)
