@@ -19,7 +19,7 @@ int main(){
 
     while(T--){
         int C, P;
-        cin >> C >> P;
+        cin >[..](..)> C >> P;
 
         map<string, price> coffee;
         for(int i = 0; i < C; i++){
