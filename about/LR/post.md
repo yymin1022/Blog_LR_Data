@@ -10,7 +10,7 @@
 
 ### History
 - [GDG on Campus CAU](https://gdgoc-cau.com) - Google Developer Groups on Campus Chung-Ang University 4th(24-25) DevRel Team Member (2024. 09. ~ 2025. 07.)
-- [Geeks Loft](https://www.geeksloft.com/) - Android 개발 수습연구원 (2024. 07. ~ 2024. 08.)
+- [Geeks Loft](https://www.geeksloft.com/) - Perisphere Android 개발 수습연구원 (2024. 07. ~ 2024. 08.)
 - [GDSC CAU](https://gdgoc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
 - [42Seoul](https://42seoul.kr) 9기 Cadet 공통과정 수료 (2023. 03. ~ 2025. 07.)
 - [SKT DEVOCEAN YOUNG](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동자 수료 (2023. 03. ~ 2023. 11.)
