@@ -41,8 +41,8 @@ yong@ubuntu-desktop:~$ adb shell service call miniv_ai 4
 
 ## Links
 
-[MINI-V Android Intro](https://dev-lr.com/blog/260522-miniv-android-intro)
+[MINI-V Android Intro](https://useful-min.dev/blog/260522-miniv-android-intro)
 
-[MINI-V Android AIDL Service](https://dev-lr.com/blog/260606-miniv-android-aidl-service)
+[MINI-V Android AIDL Service](https://useful-min.dev/blog/260606-miniv-android-aidl-service)
 
-[MINI-V Android Service Test](https://dev-lr.com/blog/260608-miniv-android-service-test)
+[MINI-V Android Service Test](https://useful-min.dev/blog/260608-miniv-android-service-test)

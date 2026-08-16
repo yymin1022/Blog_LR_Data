@@ -53,8 +53,8 @@ MINI-V Android에서는 아래 오픈소스 레포지토리를 기반으로 Qual
 
 [MINI-V Android GitHub](https://github.com/MINI-V-Android)
 
-[MINI-V Android Intro](https://dev-lr.com/blog/260522-miniv-android-intro)
+[MINI-V Android Intro](https://useful-min.dev/blog/260522-miniv-android-intro)
 
-[MINI-V Android AIDL Service](https://dev-lr.com/blog/260606-miniv-android-aidl-service)
+[MINI-V Android AIDL Service](https://useful-min.dev/blog/260606-miniv-android-aidl-service)
 
-[MINI-V Android Service Test](https://dev-lr.com/blog/260608-miniv-android-service-test)
+[MINI-V Android Service Test](https://useful-min.dev/blog/260608-miniv-android-service-test)

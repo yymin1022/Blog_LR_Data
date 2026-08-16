@@ -14,7 +14,7 @@ url: "220715-openvpn-install"
 그리고 지난번 포스팅에서 다루었던 **Adguard Home**을 구동중인 DNS 서버 등등<br/>
 다양한 장비를 구축하고 활용중에 있습니다.
 
-[AdGuard 구축 포스팅](https://dev-lr.com/postview/blog/00025)
+[AdGuard 구축 포스팅](https://useful-min.dev/postview/blog/00025)
 
 이렇게 많은 장비들을 홈 네트워크 내에서 관리하다 보면,<br/>
 간혹 외부에서의 접근이 필요한 경우도 생기게 되는데요,

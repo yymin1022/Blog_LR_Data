@@ -20,7 +20,7 @@ PC에서 간단히 이용할 수 있는 클라이언트 프로그램을<br/>
 오늘 포스팅에서는 간략한 변경점만 언급하도록 하겠습니다.<br/>
 자세한 내용은 이전 배포글을 참고해주세요.
 
-[이전 버전 포스팅 보러가기](https://dev-lr.com/postview/blog/200824-synology-downloadstation-client)
+[이전 버전 포스팅 보러가기](https://useful-min.dev/postview/blog/200824-synology-downloadstation-client)
 
 지난 버전의 경우, OTP 관련한 예외사항을 처리하지 않아,<br/>
 OTP를 이용중이신 유저분들은 서버오류 다이얼로그만이<br/>

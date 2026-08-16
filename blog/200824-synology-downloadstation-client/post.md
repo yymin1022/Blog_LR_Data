@@ -12,7 +12,7 @@ __본 게시글은 사용법 확인을 위해서만 읽어주시고,__
 
 __다운로드는 새 버전의 포스팅을 이용해주세요 !!__
 
-__[새 버전 포스팅 확인하기](https://dev-lr.com/postview/blog/200902-synology-downloadstation-client-new)__
+__[새 버전 포스팅 확인하기](https://useful-min.dev/postview/blog/200902-synology-downloadstation-client-new)__
 
 <br/>
 <br/>

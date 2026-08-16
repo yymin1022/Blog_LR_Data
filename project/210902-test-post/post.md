@@ -18,9 +18,9 @@ Italic *ASDFQWER*
 
 BlockQuote ```ASDFQWER```
 
-URL https://dev-lr.com/
+URL https://useful-min.dev/
 
-Text URL [Dev. LR](https://dev-lr.com/)
+Text URL [Dev. LR](https://useful-min.dev/)
 
 List
 

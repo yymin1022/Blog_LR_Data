@@ -149,8 +149,8 @@ Synology NAS의 경우는 로그센터 패키지의 로그 전송 메뉴에서 �
 이상으로 `rsyslog` 서버 구축 과정 소개 포스팅을 마치도록 하겠습니다!
 혹시, 관련해서 문의사항이나 궁금한 점이 있으시면 댓글로 남겨주시기 바랍니다.
 
-[OpenVPN 서버 구축 포스팅](https://dev-lr.com/postview/blog/00026)
-[AdGuard DNS서버 구축 포스팅](https://dev-lr.com/postview/blog/00025)
+[OpenVPN 서버 구축 포스팅](https://useful-min.dev/postview/blog/00026)
+[AdGuard DNS서버 구축 포스팅](https://useful-min.dev/postview/blog/00025)
 
 지금까지,<br/>
 LR이었습니다!

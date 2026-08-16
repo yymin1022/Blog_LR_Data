@@ -29,7 +29,7 @@ Synology 사의 DSM OS를 개조한<br/>
 
 먼저, 기본적인 작업은 지난 3월 작성했던 6.2.1버전의 설치 과정과 동일합니다.<br/>
 
-[지난 게시글 보러가기](https://dev-lr.com/postview/blog/200311-odroid-h2-xpenology-guide)
+[지난 게시글 보러가기](https://useful-min.dev/postview/blog/200311-odroid-h2-xpenology-guide)
 
 이전 포스팅을 참고하셔서,<br/>
 USB의 PID와 VID값을 **grub.cfg** 에 입력하는 작업까지만 진행한 뒤,<br/>

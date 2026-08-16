@@ -59,7 +59,7 @@ export PATH=$PATH:/opt/homebrew/bin
 **Ubuntu**를 기준으로 작성된 포스팅이지만, 터미널에서 실행하는 명령어는 동일하니,<br/>
 포스팅 중간 부분의 **Oh My ZSH** 설치 부분을 참고하시기 바랍니다.
 
-[Oh-My-ZSH 설치하고 zsh 커스텀하기](https://dev-lr.com/postview/blog/00002)
+[Oh-My-ZSH 설치하고 zsh 커스텀하기](https://useful-min.dev/postview/blog/00002)
 
 추가로 관련해서 궁금한 점 있으시면, 댓글로 남겨주시기 바랍니다.
 
